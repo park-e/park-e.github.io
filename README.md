@@ -13,6 +13,6 @@ Amazing things happen when your mind is at peace. Whether you are moving across 
 # Devs
 - [Soham Malakar](https://www.linkedin.com/in/malakar-soham/)
 - Swastik Malakar
-- Abhishek Raj
+- [Abhishek Raj](https://www.linkedin.com/in/abhishekraj272/)
 - Aman Verma
 - Pratik Kumar Singh
