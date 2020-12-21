@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "abhishekraj272",
+      "name": "Abhishek Raj",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27128838?v=4",
+      "profile": "https://github.com/abhishekraj272",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "park-e.github.io",
+  "projectOwner": "park-e",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
