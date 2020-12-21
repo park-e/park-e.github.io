@@ -8,11 +8,13 @@
 Amazing things happen when your mind is at peace. Whether you are moving across town or towards your dreams, having a safe reliable spot for your transport brings a huge peace of mind. Let us have your worries, while you focus on important ideas and bring them to reality.
 
 # Demo
+
 - [Video](https://www.youtube.com/playlist?list=PLCm0to8OPSsNMv7pgtQQ9lDRdk_lvJDWw)
 
 # Devs
+
 - [Soham Malakar](https://www.linkedin.com/in/malakar-soham/)
-- Swastik Malakar
+- [Swastik Malakar](https://www.linkedin.com/in/malakar-swastik)
 - [Abhishek Raj](https://www.linkedin.com/in/abhishekraj272/)
 - [Aman Verma](https://www.linkedin.com/in/amanv8060)
-- Pratik Kumar Singh
+- [Pratik Kumar Singh](https://www.linkedin.com/in/pksn)
