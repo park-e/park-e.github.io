@@ -1,7 +1,4 @@
 <p align="center"><img src="https://github.com/park-e/cdn/blob/main/banner.png"></p>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p>
 <img src="https://img.shields.io/badge/finder-v0.1.2--alpha-101628">
@@ -16,28 +13,12 @@ Amazing things happen when your mind is at peace. Whether you are moving across 
 
 # Devs
 
-- [Soham Malakar](https://www.linkedin.com/in/malakar-soham/)
-- [Swastik Malakar](https://www.linkedin.com/in/malakar-swastik)
-- [Abhishek Raj](https://www.linkedin.com/in/abhishekraj272/) 
-- [Aman Verma](https://www.linkedin.com/in/amanv8060)
-- [Pratik Kumar Singh](https://www.linkedin.com/in/pksn)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/abhishekraj272"><img src="https://avatars1.githubusercontent.com/u/27128838?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Raj</b></sub></a><br /><a href="https://github.com/park-e/park-e.github.io/commits?author=abhishekraj272" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/malakar-swastik"><img src="https://avatars1.githubusercontent.com/u/41292531?v=4" width="100px;" alt=""/><br /><sub><b>Swastik Malakar</b></sub></a><br /><a href="#design-malakar-swastik" title="Design">🎨</a></td>
-  </tr>
+<tbody>
+<tr>
+<td align="center"><img width=100px src ="https://avatars2.githubusercontent.com/u/38937943?v=4"><br><a href="https://github.com/malakar-soham/"><sub><b>Soham Malakar</sub></b></a><br><a href="https://twitter.com/malakar_soham"><img width=25px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png"></a> <a href="https://www.linkedin.com/in/malakar-soham"><img width=28px src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></a></td>
+<td align="center"><img width=100px src ="https://avatars1.githubusercontent.com/u/27128838?v=4"><br><a href="https://github.com/abhishekraj272"><sub><b>Abhishek Raj</sub></b></a><br><img width=25px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" > <img width=28px src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" ></td>
+<td align="center"><img width=100px src ="https://avatars1.githubusercontent.com/u/41292531?v=4"><br><a href="https://github.com/malakar-swastik"><sub><b>Swastik Malakar</sub></b></a><br><img width=25px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" > <img width=28px src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" ></td><td align="center"><img width=100px src ="https://avatars0.githubusercontent.com/u/33422449?v=4"><br><a href="https://github.com/amanv8060"><sub><b>Aman Verma</sub></b></a><br><img width=25px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" > <img width=28px src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" ></td><td align="center"><img width=100px src ="https://avatars2.githubusercontent.com/u/56654568?v=4""><br><a href="https://github.com/singh-pk"><sub><b>Pratik Kumar Singh</sub></b></a><br><img width=25px src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" > <img width=28px src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png"></td>
+</tr>
+</tbody>
 </table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
