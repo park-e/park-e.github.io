@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/park-e/cdn/blob/main/banner.png"></p>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p>
@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/abhishekraj272"><img src="https://avatars1.githubusercontent.com/u/27128838?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Raj</b></sub></a><br /><a href="https://github.com/park-e/park-e.github.io/commits?author=abhishekraj272" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/malakar-soham"><img src="https://avatars2.githubusercontent.com/u/38937943?v=4" width="100px;" alt=""/><br /><sub><b>Soham Malakar</b></sub></a><br /><a href="#design-malakar-soham" title="Design">🎨</a></td>
   </tr>
 </table>
 
