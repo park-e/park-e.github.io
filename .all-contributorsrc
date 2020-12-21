@@ -13,6 +13,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "malakar-swastik",
+      "name": "Swastik Malakar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/41292531?v=4",
+      "profile": "https://github.com/malakar-swastik",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
