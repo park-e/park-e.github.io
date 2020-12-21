@@ -15,6 +15,6 @@ Amazing things happen when your mind is at peace. Whether you are moving across 
 
 - [Soham Malakar](https://www.linkedin.com/in/malakar-soham/)
 - [Swastik Malakar](https://www.linkedin.com/in/malakar-swastik)
-- [Abhishek Raj](https://www.linkedin.com/in/abhishekraj272/)
+- [Abhishek Raj](https://www.linkedin.com/in/abhishekraj272/) 
 - [Aman Verma](https://www.linkedin.com/in/amanv8060)
 - [Pratik Kumar Singh](https://www.linkedin.com/in/pksn)
